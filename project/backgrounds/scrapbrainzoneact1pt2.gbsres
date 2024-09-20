@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "c060ca5c-e40e-4b1a-8098-cf8f831eea5e",
+  "name": "ScrapBrainZoneACT1PT2",
+  "symbol": "bg_scrapbrainzoneact1pt2",
+  "width": 244,
+  "height": 64,
+  "imageWidth": 1952,
+  "imageHeight": 512,
+  "filename": "ScrapBrainZoneACT1PT2.png",
+  "tileColors": "",
+  "autoColor": false
+}

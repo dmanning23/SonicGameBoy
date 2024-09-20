@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "a849df0e-d46e-4351-aa7b-cc5c69efdca8",
+  "name": "DataSelect",
+  "symbol": "song_dataselect",
+  "filename": "DataSelect.uge",
+  "settings": {},
+  "type": "uge"
+}

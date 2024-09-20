@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "8db565a3-cda0-485b-9f0e-e70dafd9987e",
+  "name": "TestZone",
+  "symbol": "bg_testzone",
+  "width": 255,
+  "height": 36,
+  "imageWidth": 2040,
+  "imageHeight": 288,
+  "filename": "TestZone.png",
+  "tileColors": "",
+  "autoColor": false
+}

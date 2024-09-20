@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e43fef00-1c9d-4dd9-a140-a3882f4e1f3c",
+  "name": "Blast5_GHZ2",
+  "symbol": "bg_blast5_ghz2",
+  "width": 220,
+  "height": 36,
+  "imageWidth": 1760,
+  "imageHeight": 288,
+  "filename": "Blast5_GHZ2.png",
+  "tileColors": "",
+  "autoColor": false
+}

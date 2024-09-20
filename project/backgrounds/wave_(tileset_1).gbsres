@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e71f9ddd-2b23-4a28-b089-fd14c9290958",
+  "name": "!wave (tileset 1)",
+  "symbol": "bg_wave_tileset_1_",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "!wave (tileset 1).png",
+  "tileColors": "",
+  "autoColor": false
+}

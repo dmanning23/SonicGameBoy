@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "83aad99a-30e6-433f-b90d-1de407cef04d",
+  "name": "GreenHillZoneAct1PT2",
+  "symbol": "bg_greenhillzoneact1pt2",
+  "width": 255,
+  "height": 64,
+  "imageWidth": 2040,
+  "imageHeight": 512,
+  "filename": "GreenHillZoneAct1PT2.png",
+  "tileColors": "",
+  "autoColor": false
+}

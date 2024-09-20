@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d7ee8016-aaab-40d2-9916-bf31b96432b7",
+  "name": "watertest",
+  "symbol": "bg_watertest",
+  "width": 20,
+  "height": 36,
+  "imageWidth": 160,
+  "imageHeight": 288,
+  "filename": "watertest.png",
+  "tileColors": "",
+  "autoColor": false
+}

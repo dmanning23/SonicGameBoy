@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "530a70c0-5335-41c2-b413-e035d81a6dfa",
+  "name": "BadnikExplosion.wav",
+  "symbol": "sound_badnikexplosion_wav",
+  "filename": "BadnikExplosion.wav",
+  "type": "wav"
+}

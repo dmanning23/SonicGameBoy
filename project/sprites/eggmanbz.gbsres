@@ -1,0 +1,101 @@
+{
+  "_resourceType": "sprite",
+  "id": "1ba4b4a0-2c7e-4a45-b98a-ecd87349b4eb",
+  "name": "EggmanBZ",
+  "symbol": "sprite_eggmanbz",
+  "numFrames": 10,
+  "filename": "EggmanBZ.png",
+  "checksum": "7bf8d56bcb4787bc86868a5b101600c27493cf37",
+  "width": 160,
+  "height": 48,
+  "states": [
+    {
+      "id": "32d9b6d9-03a3-420f-9101-2c1950a09b1e",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "29bc78ec-b53c-4e4c-9c2a-9a731659ba57",
+          "frames": [
+            {
+              "id": "17e1340c-2bc1-45cc-977b-b6fd4c1ffd0b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "59d3893d-e76f-43b6-8938-21783c78e8b7",
+          "frames": [
+            {
+              "id": "1618f8c2-c568-43b9-bb69-fbb25cdc7a80",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "71280cf4-c75b-4335-8ca7-de91040e74d4",
+          "frames": [
+            {
+              "id": "1b74c146-d3eb-4709-9730-2cd172d9ee46",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7b7875d5-5652-439d-9fab-5bccda4069f0",
+          "frames": [
+            {
+              "id": "134dc0db-dc88-424a-b8dd-d365a0cf54db",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3272f940-2cf4-4911-af56-12727c7ca559",
+          "frames": [
+            {
+              "id": "70577f3e-dd75-490b-b1c9-032d357173f7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "46499c31-5457-44c7-a5c4-9539cae6464c",
+          "frames": [
+            {
+              "id": "9ad8b598-ea9f-4c00-88e8-a3ae65ae369b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b976e9ec-5cc4-42a0-8cc0-09d8621e1373",
+          "frames": [
+            {
+              "id": "fc69efdb-04c1-4f16-92ae-db4c7d6fa3d9",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4820c9e2-10e6-4829-bba4-a6a1a0417770",
+          "frames": [
+            {
+              "id": "1ca11e8a-f095-4b1b-bb15-1ac3e54f72de",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15
+}

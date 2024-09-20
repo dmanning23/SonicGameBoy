@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "a5761234-daa2-497f-aa84-7f1fe89b174c",
+  "name": "Bumper.wav",
+  "symbol": "sound_bumper_wav",
+  "filename": "Bumper.wav",
+  "type": "wav"
+}

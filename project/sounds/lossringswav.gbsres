@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "08be23f9-bb20-40f2-a01d-f75cb90d393f",
+  "name": "LossRings.wav",
+  "symbol": "sound_lossrings_wav",
+  "filename": "LossRings.wav",
+  "type": "wav"
+}

@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "06708834-f96e-4072-a108-1c2fd7d93de4",
+  "name": "Timer",
+  "symbol": "song_timer",
+  "filename": "Timer.uge",
+  "settings": {},
+  "type": "uge"
+}

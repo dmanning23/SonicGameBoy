@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "58198224-a850-4e3a-a087-bc7a10b5b282",
+  "name": "Carn",
+  "symbol": "bg_carn",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Carn.png",
+  "tileColors": "",
+  "autoColor": true
+}

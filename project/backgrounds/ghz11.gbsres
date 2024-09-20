@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3cc036ca-b8d2-4e66-88dd-5754e47f8143",
+  "name": "GHZ11",
+  "symbol": "bg_ghz11",
+  "width": 220,
+  "height": 36,
+  "imageWidth": 1760,
+  "imageHeight": 288,
+  "filename": "GHZ11.png",
+  "tileColors": "",
+  "autoColor": false
+}

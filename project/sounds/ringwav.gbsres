@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "db633d38-24ce-4f90-ae3b-545dcd1945d3",
+  "name": "Ring.wav",
+  "symbol": "sound_ring_wav",
+  "filename": "Ring.wav",
+  "type": "wav"
+}

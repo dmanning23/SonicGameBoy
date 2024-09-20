@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "9f4e6380-57aa-40f5-ada3-02e0721e02d1",
+  "name": "spike.wav",
+  "symbol": "sound_spike_wav",
+  "filename": "spike.wav",
+  "type": "wav"
+}

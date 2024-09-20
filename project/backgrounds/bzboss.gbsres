@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "f5cd615e-4672-484b-b350-781f0f2c39f1",
+  "name": "BZBoss",
+  "symbol": "bg_bzboss",
+  "width": 249,
+  "height": 56,
+  "imageWidth": 1992,
+  "imageHeight": 448,
+  "filename": "BZBoss.png",
+  "tileColors": "",
+  "autoColor": true
+}

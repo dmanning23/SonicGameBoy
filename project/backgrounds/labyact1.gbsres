@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a28205a1-61e9-46e3-ace5-eb818c061411",
+  "name": "LabyAct1",
+  "symbol": "bg_labyact1",
+  "width": 160,
+  "height": 64,
+  "imageWidth": 1280,
+  "imageHeight": 512,
+  "filename": "LabyAct1.png",
+  "tileColors": "",
+  "autoColor": false
+}

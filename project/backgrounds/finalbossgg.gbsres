@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "1b7cd611-fbaa-47bb-a375-57376b54f1c8",
+  "name": "FinalBossGG",
+  "symbol": "bg_finalbossgg",
+  "width": 208,
+  "height": 46,
+  "imageWidth": 1664,
+  "imageHeight": 368,
+  "filename": "FinalBossGG.png",
+  "tileColors": "",
+  "autoColor": false
+}

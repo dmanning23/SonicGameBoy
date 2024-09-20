@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "057fc356-e465-4c8e-a4e2-41ab248e0b68",
+  "name": "FBZT",
+  "symbol": "bg_fbzt",
+  "width": 60,
+  "height": 18,
+  "imageWidth": 480,
+  "imageHeight": 144,
+  "filename": "FBZT.png",
+  "tileColors": "",
+  "autoColor": false
+}

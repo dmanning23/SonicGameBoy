@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "450aa768-6dce-47c4-996c-8a15a92434fa",
+  "name": "Dash.wav",
+  "symbol": "sound_dash_wav",
+  "filename": "Dash.wav",
+  "type": "wav"
+}

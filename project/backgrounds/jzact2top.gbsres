@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3fc780ba-b775-4fd9-9763-81abf0ee7e23",
+  "name": "JZAct2Top",
+  "symbol": "bg_jzact2top",
+  "width": 64,
+  "height": 32,
+  "imageWidth": 512,
+  "imageHeight": 256,
+  "filename": "JZAct2Top.png",
+  "tileColors": "",
+  "autoColor": false
+}

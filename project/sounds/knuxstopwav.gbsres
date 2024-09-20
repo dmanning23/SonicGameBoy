@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "0dffd1d9-de74-4c06-a23e-33e32bcb45b4",
+  "name": "KnuxStop.wav",
+  "symbol": "sound_knuxstop_wav",
+  "filename": "KnuxStop.wav",
+  "type": "wav"
+}

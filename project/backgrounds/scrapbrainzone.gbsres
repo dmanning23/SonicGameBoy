@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "88d82fbe-78d7-4f30-9776-afb61b22e45b",
+  "name": "ScrapBrainZone",
+  "symbol": "bg_scrapbrainzone",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "ScrapBrainZone.png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d4ee46aa-0b00-46c3-a61d-528754560e38",
+  "name": "GHZAct2",
+  "symbol": "bg_ghzact2",
+  "width": 148,
+  "height": 109,
+  "imageWidth": 1184,
+  "imageHeight": 872,
+  "filename": "GHZAct2.png",
+  "tileColors": "",
+  "autoColor": true
+}

@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "163dff09-99ef-4733-8476-129f55c83e61",
+  "name": "GameOver",
+  "symbol": "song_gameover",
+  "filename": "GameOver.uge",
+  "settings": {},
+  "type": "uge"
+}

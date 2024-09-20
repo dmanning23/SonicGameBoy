@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "7717d68a-e82e-4077-b3e4-9b030868007d",
+  "name": "DropDash.wav",
+  "symbol": "sound_dropdash_wav",
+  "filename": "DropDash.wav",
+  "type": "wav"
+}

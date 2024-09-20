@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "64d4313c-d5ed-40c7-a6f8-1b03b70ee02c",
+  "name": "SkyBaseZoneAct1PT1",
+  "symbol": "bg_skybasezoneact1pt1",
+  "width": 252,
+  "height": 61,
+  "imageWidth": 2016,
+  "imageHeight": 488,
+  "filename": "SkyBaseZoneAct1PT1.png",
+  "tileColors": "",
+  "autoColor": false
+}

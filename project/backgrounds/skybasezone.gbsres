@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "7ac98228-5097-4b3b-aef1-ccc96ba85c50",
+  "name": "SkyBaseZone",
+  "symbol": "bg_skybasezone",
+  "width": 204,
+  "height": 80,
+  "imageWidth": 1632,
+  "imageHeight": 640,
+  "filename": "SkyBaseZone.png",
+  "tileColors": "",
+  "autoColor": false
+}

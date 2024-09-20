@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "07760274-cb97-4f94-9ef4-c67288c45620",
+  "name": "SEGA",
+  "symbol": "bg_sega",
+  "width": 60,
+  "height": 18,
+  "imageWidth": 480,
+  "imageHeight": 144,
+  "filename": "SEGA.png",
+  "tileColors": "",
+  "autoColor": false
+}

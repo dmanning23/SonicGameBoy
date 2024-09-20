@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3b48313a-438b-47d4-affa-167c25b17bb5",
+  "name": "SBZAct2b",
+  "symbol": "bg_sbzact2b",
+  "width": 120,
+  "height": 44,
+  "imageWidth": 960,
+  "imageHeight": 352,
+  "filename": "SBZAct2b.png",
+  "tileColors": "007ae+01!0075+013+0076+015+0073+01!00b8a+",
+  "autoColor": true
+}

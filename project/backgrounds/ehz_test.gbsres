@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "e889239e-636c-48ee-8643-a9e097aea4fc",
+  "name": "EHZ_Test",
+  "symbol": "bg_ehz_test",
+  "width": 160,
+  "height": 36,
+  "imageWidth": 1280,
+  "imageHeight": 288,
+  "filename": "EHZ_Test.png",
+  "tileColors": "",
+  "autoColor": false
+}

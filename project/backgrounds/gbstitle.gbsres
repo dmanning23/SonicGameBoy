@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "32662342-4664-4760-8b79-d02d2c314469",
+  "name": "GBSTitle",
+  "symbol": "bg_gbstitle",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "GBSTitle.png",
+  "tileColors": "",
+  "autoColor": false
+}

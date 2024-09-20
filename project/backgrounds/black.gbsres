@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "cd57cffa-2cc2-4d72-af20-2d1950aa9085",
+  "name": "black",
+  "symbol": "bg_black",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "black.png",
+  "tileColors": "",
+  "autoColor": false
+}

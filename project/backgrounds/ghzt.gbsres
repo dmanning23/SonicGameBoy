@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d860313e-28ad-4c9c-9e25-4520e395bce0",
+  "name": "GHZT",
+  "symbol": "bg_ghzt",
+  "width": 60,
+  "height": 18,
+  "imageWidth": 480,
+  "imageHeight": 144,
+  "filename": "GHZT.png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "eec0669b-b306-45fd-b7d2-fd27a42766c2",
+  "name": "GHZ00",
+  "symbol": "bg_ghz00",
+  "width": 220,
+  "height": 18,
+  "imageWidth": 1760,
+  "imageHeight": 144,
+  "filename": "GHZ00.png",
+  "tileColors": "",
+  "autoColor": false
+}

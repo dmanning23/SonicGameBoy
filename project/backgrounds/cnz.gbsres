@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "730d434f-7fb4-4c3d-acb0-ac97b8855960",
+  "name": "CNZ",
+  "symbol": "bg_cnz",
+  "width": 80,
+  "height": 112,
+  "imageWidth": 640,
+  "imageHeight": 896,
+  "filename": "CNZ.png",
+  "tileColors": "",
+  "autoColor": false
+}

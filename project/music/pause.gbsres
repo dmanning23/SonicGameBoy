@@ -1,0 +1,9 @@
+{
+  "_resourceType": "music",
+  "id": "11c86d18-4e3d-4c47-a822-c55c4314af2e",
+  "name": "Pause",
+  "symbol": "song_pause",
+  "filename": "Pause.uge",
+  "settings": {},
+  "type": "uge"
+}
